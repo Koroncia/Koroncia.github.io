@@ -91,7 +91,7 @@ section.container .row {
   display: flex;
   align-items: center;
   height: 350px;
-  background-image: url("file:///Users/kate/Desktop/Index/IMG/Taipeiview.jpg");
+  background-image: url("Taipeiview.jpg");
   background-size: cover;
   background-position: center;
 }

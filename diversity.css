@@ -91,7 +91,7 @@ section.container .row {
   display: flex;
   align-items: center;
   height: 350px;
-  background-image: url("file:///Users/kate/Desktop/Index/IMG/Shandao.jpg");
+  background-image: url("Shandao.jpg");
   background-size: cover;
   background-position: center;
 }

@@ -91,7 +91,7 @@ section.container .row {
   display: flex;
   align-items: center;
   height: 350px;
-  background-image: url("file:///Users/kate/Desktop/yehliu.jpg");
+  background-image: url("yehliu.jpg");
   background-size: cover;
   background-position: center;
 }
